@@ -9,7 +9,6 @@ profile, technical skills, education, projects, and contact information.
 
 ## Live Demo
 
--   **Portfolio:** https://devsauban.netlify.app/
 -   **GitHub Repository:**
     https://github.com/Sauban1222/Professional-Portfolio-Website
 
