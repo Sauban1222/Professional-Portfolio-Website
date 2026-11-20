@@ -11,6 +11,8 @@ profile, technical skills, education, projects, and contact information.
 
 -   **GitHub Repository:**
     https://github.com/Sauban1222/Professional-Portfolio-Website
+    **Link:**
+    https://sauban-professional-portfolio.netlify.app/
 
 ## Project Objective
 
@@ -103,7 +105,7 @@ development.
 
 -   **Email:** alisooban12@gmail.com
 -   **GitHub:** https://github.com/Sauban1222
--   **Portfolio:** https://devsauban.netlify.app/
+-   **Portfolio:** https://sauban-professional-portfolio.netlify.app/
 
 ------------------------------------------------------------------------
 
